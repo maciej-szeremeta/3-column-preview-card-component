@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Lexend+Deca&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&display=swap");
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 15px;
+  font-family: "Lexend Deca", "Big Shoulders Display", sans-serif;
+}/*# sourceMappingURL=reset.css.map */
